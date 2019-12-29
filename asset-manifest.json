@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TodoLisReactHooks/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/TodoLisReactHooks/static/js/main.1ffa087b.chunk.js",
+    "main.js.map": "/TodoLisReactHooks/static/js/main.1ffa087b.chunk.js.map",
+    "runtime-main.js": "/TodoLisReactHooks/static/js/runtime-main.3f0e77e6.js",
+    "runtime-main.js.map": "/TodoLisReactHooks/static/js/runtime-main.3f0e77e6.js.map",
+    "static/js/2.5ea5ef8d.chunk.js": "/TodoLisReactHooks/static/js/2.5ea5ef8d.chunk.js",
+    "static/js/2.5ea5ef8d.chunk.js.map": "/TodoLisReactHooks/static/js/2.5ea5ef8d.chunk.js.map",
+    "index.html": "/TodoLisReactHooks/index.html",
+    "precache-manifest.15619f2be67ce38cab0fa0f7358c3f5c.js": "/TodoLisReactHooks/precache-manifest.15619f2be67ce38cab0fa0f7358c3f5c.js",
+    "service-worker.js": "/TodoLisReactHooks/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/TodoLisReactHooks/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5ea5ef8d.chunk.js.LICENSE": "/TodoLisReactHooks/static/js/2.5ea5ef8d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f0e77e6.js",
+    "static/js/2.5ea5ef8d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1ffa087b.chunk.js"
+  ]
+}
